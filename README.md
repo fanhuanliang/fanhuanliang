@@ -3,7 +3,6 @@
 
 [![](https://img.shields.io/badge/LinkedIn-fanhuanliang-blue)](https://www.linkedin.com/in/fanhuanliang/)
 [![](https://img.shields.io/badge/Gmail-fanhuanlinggmail.com-red)](mailto:fanhuanliang@gmail.com)
-[![](https://img.shields.io/badge/Leetcode-naveenverma-brightgreen)](https://leetcode.com/fanhuanliang/)
 
 Here are some ideas to get you started:
 
@@ -25,9 +24,4 @@ const Nick = {
     funFact: "Hiking, cooking, cycling"
 };
 
-<a href="https://github.com/fanhuanliang">
-  <img src="https://img.shields.io/github/followers/fanhuanliang">
-</a>
-<a href="https://github.com/fanhuanliang">
-   <img src="https://komarev.com/ghpvc/?username=fanhuanliang">
-</a>
+[![Nick's github stats](https://github-readme-stats.vercel.app/api?username=fanhuanliang&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/fanhuanliang)
