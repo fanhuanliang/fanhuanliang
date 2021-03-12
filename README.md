@@ -19,9 +19,7 @@ const Nick = {
        backEnd: {
             js: ["node", "express"],
         },
-        databases: ["mongoD", "MySql"],
+        databases: ["mongoDB", "MySql"],
     },
     funFact: "Hiking, cooking, cycling"
 };
-
-[![Nick's github stats](https://github-readme-stats.vercel.app/api?username=fanhuanliang&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/fanhuanliang)
