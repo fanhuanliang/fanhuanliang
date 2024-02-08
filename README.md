@@ -23,5 +23,5 @@ const Nick = {
         },
         databases: ["mongoDB", "MySql"],
     },
-    funFact: "Hiking, cooking, cycling"
+    funFact: "Hiking, cooking, swimming"
 };
